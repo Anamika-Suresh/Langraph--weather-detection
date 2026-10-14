@@ -4,7 +4,7 @@ An interactive AI assistant built with **LangGraph** and **Groq (`openai/gpt-oss
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 1. **Clone the repository**:
    ```bash
@@ -30,7 +30,7 @@ An interactive AI assistant built with **LangGraph** and **Groq (`openai/gpt-oss
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 You have two ways to interact with the assistant:
 
@@ -61,7 +61,7 @@ Open [langraph.ipynb](file:///c:/Users/ANAMIKA/Desktop/langraph_agent/langraph.i
 
 ---
 
-## 🛠️ Project Structure
+##  Project Structure
 
 - [main.py](file:///c:/Users/ANAMIKA/Desktop/langraph_agent/main.py) — Standalone production-ready Python script with interactive chat loop, Windows UTF-8 encoding support, and memory checkpointer.
 - [langraph.ipynb](file:///c:/Users/ANAMIKA/Desktop/langraph_agent/langraph.ipynb) — Step-by-step Jupyter Notebook detailing the LangGraph architecture and interactive execution.
